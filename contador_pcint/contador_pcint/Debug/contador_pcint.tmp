@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\Debug\contador_pcint.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>contador_pcint.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>contador_pcint.map</FILE>
+  <FILE>contador_pcint.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>20</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>163</LINE></ISR_PCINT0>
+  <ISR_TIMER0_OVF><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>242</LINE></ISR_TIMER0_OVF>
+  <SETUP><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>32</LINE></SETUP>
+  <INIT_TIMER0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>145</LINE></INIT_TIMER0>
+  <LOOP><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>78</LINE></LOOP>
+  <RESET><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>126</LINE></RESET>
+  <DISPLAY1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>131</LINE></DISPLAY1>
+  <ESPERAR><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>117</LINE></ESPERAR>
+  <TABLA7SEG><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>262</LINE></TABLA7SEG>
+  <RESET1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>137</LINE></RESET1>
+  <TIEMPO><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>119</LINE></TIEMPO>
+  <ANTIREBOTE><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>170</LINE></ANTIREBOTE>
+  <DELAY><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>173</LINE></DELAY>
+  <BTN1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>210</LINE></BTN1>
+  <EXIT><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>229</LINE></EXIT>
+  <ANTIREBOTE2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>200</LINE></ANTIREBOTE2>
+  <DELAY2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\contador_pcint\contador_pcint\main.asm</FILE><LINE>203</LINE></DELAY2>
+ </LABELS>
+</ASSEMBLER_INFO>
